@@ -2,7 +2,7 @@
 A collection of standalone modules/utilities written in Python, free for anyone to use/fork/etc
 
 ### directory ###
-- [oop-model](./oop-model) - Generic boilerplate code for an object-oriented approach
+- [oop-model](/oop-model.py) - Generic boilerplate code for an object-oriented approach
 
 ---
 
